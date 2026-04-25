@@ -6,7 +6,9 @@
 ---
 
 ## 🔧 Skills
-- Automation Testing
+- Manual and Automation Testing
+- SQL
+- Java
 - Python
 - Selenium
 - Jira
