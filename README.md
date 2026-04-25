@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Mohini 👋
 
-<!--
-**mohiniverma96mv-create/mohiniverma96mv-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 QA Engineer | Automation Testing Enthusiast  
+🚀 Passionate about improving software quality and defect validation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Automation Testing
+- Python
+- Selenium
+- Jira
+- Test Case Design
+- API Testing (Basics)
+
+---
+
+## 📌 Featured Project
+
+### 🐞 Bug Validator
+Automated QA bug validation tool that ensures defect completeness and quality.
+
+**Key Features:**
+- Validates Summary, Description, Expected & Actual Results
+- Checks Test Case Linking & Execution Details
+- Ensures Sprint, Story Points, Labels & Priority
+- Improves communication between QA & Developers
+
+---
+
+## 📈 Goals
+- Build advanced automation frameworks
+- Integrate AI in QA validation
+- Contribute to real-world testing tools
+
+---
+
+## 📫 Connect with me
+- Email: mohiniverma96.mv@gmail.com
